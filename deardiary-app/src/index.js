@@ -1,6 +1,7 @@
 import React from "react";
-import App from "./components/App";
-import ReactDOM from 'react-dom';
+import ReactDOM from "react-dom";
+import "./styles.css";
+import App from "./component/App";
 
 const root = document.getElementById('root');
 
@@ -10,5 +11,3 @@ const render = (Component) => {
 };
 
 render(App);
-
-export default App;
