@@ -20,7 +20,7 @@ Installation
 2. Install dependencies:
    
    npm install
-   ```
+   npm install
 
 3. Configure MongoDB connection:
    - Open `server.js` and replace the MongoDB connection URL with your own.
@@ -28,7 +28,7 @@ Installation
 4. Start the server:
   
    npm start
-   
+   npm start
 
 
 Example usage:
